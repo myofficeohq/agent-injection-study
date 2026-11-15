@@ -1,5 +1,4 @@
 # Agent Injection Study
-
 Open study by Daniel Aligasim, founder of AWM Limited (MyOfficeo, https://myofficeo.com).
 
 ## Question
